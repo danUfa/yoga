@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">yoga</string>
+
+    <string name="textView2">Наслаждайся отборочными.\n Будь внимателен.\n Делай хорошо.</string>
+    <string name="textView11">Кратенькое описание \nблока с двумя строчкам</string>
+    <string name="textView12">Кратенькое описание \nблока с двумя строчками</string>
+</resources>
